@@ -46,4 +46,8 @@ app.use(function(err: HttpError, req: Request, res: Response, next: NextFunction
   res.render('error');
 });
 
+if(process.env.NODE_ENV === 'production') {
+  app.use(express.static(path.resolve(__dirname, )))
+}
+
 export default app;
