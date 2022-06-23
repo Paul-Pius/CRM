@@ -1,0 +1,14 @@
+extends layout
+
+block content 
+    .container 
+        .mt-5.mx-auto.w-50 
+            ul.list-group
+                each val in data
+                    li.list-group-item
+                        br
+                        each value, key in val
+                            span= key + ': - ' + value
+                            
+                            br
+                        button(data-email= val.email onclick='( function () {fetch("http://localhost:3001/customer/"+window.event.target.dataset.email)})()') view

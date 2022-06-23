@@ -1,0 +1,10 @@
+extends layout 
+
+block content 
+    .container 
+        .mt-5.mx-auto.w-50
+            ul.list-group 
+                each val in data 
+                    li.list-group-item 
+                        each value, key in val 
+                            p= key + '+ -' + value 

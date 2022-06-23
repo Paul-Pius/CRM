@@ -1,0 +1,211 @@
+[
+  {
+    "fullname": "john doe",
+    "email": "john@example.com",
+    "gender": "m",
+    "phone": "+2347085647535",
+    "address": "1, rantech stop",
+    "notes": "This Customer is owing 10k"
+  },
+  {
+    "0": {
+      "fullname": "john doe",
+      "email": "john@example.com",
+      "gender": "m",
+      "phone": "+2347085647535",
+      "address": "1, rantech stop",
+      "notes": "This Customer is owing 10k"
+    }
+  },
+  {
+    "fullname": "Paul Pius",
+    "email": "paulpius55@gmail.com",
+    "password": "1234",
+    "cpassword": "1234"
+  },
+  { "email": "paulpius55@gmail.com", "password": "1234" },
+  { "email": "paulpius55@gmail.com", "password": "1234" },
+  {
+    "fullname": "Marshal Moses",
+    "email": "mash@example.com",
+    "gender": "m",
+    "phone": "+2347085647535",
+    "address": "1, rantech stop",
+    "notes": "This Customer is owing 20k"
+  },
+  {
+    "fullname": "Marshal Moses",
+    "email": "mash@example.com",
+    "gender": "m",
+    "phone": "+2347085647535",
+    "address": "1, rantech stop",
+    "notes": "This Customer is owing 20k"
+  },
+  {
+    "fullname": "Marshal Moses",
+    "email": "mash@example.com",
+    "gender": "m",
+    "phone": "+2347085647535",
+    "address": "1, rantech stop",
+    "notes": "This Customer is owing 20k"
+  },
+  {
+    "fullname": "Marshal Moses",
+    "email": "mash@example.com",
+    "gender": "m",
+    "phone": "+2347085647535",
+    "address": "1, rantech stop",
+    "notes": "This Customer is owing 20k"
+  },
+  {
+    "fullname": "Marshal Moses",
+    "email": "mash@example.com",
+    "gender": "m",
+    "phone": "+2347085647535",
+    "address": "1, rantech stop",
+    "notes": "This Customer is owing 20k"
+  },
+  {
+    "fullname": "Marshal Moses",
+    "email": "mash@example.com",
+    "gender": "m",
+    "phone": "+2347085647535",
+    "address": "1, rantech stop",
+    "notes": "This Customer is owing 20k"
+  },
+  {
+    "fullname": "Marshal Moses",
+    "email": "mash@example.com",
+    "gender": "m",
+    "phone": "+2347085647535",
+    "address": "1, rantech stop",
+    "notes": "This Customer is owing 20k"
+  },
+  {
+    "fullname": "Marshal Moses",
+    "email": "mash@example.com",
+    "gender": "m",
+    "phone": "+2347085647535",
+    "address": "1, rantech stop",
+    "notes": "This Customer is owing 20k"
+  },
+  {
+    "fullname": "Marshal Moses",
+    "email": "mash@example.com",
+    "gender": "m",
+    "phone": "+2347085647535",
+    "address": "1, rantech stop",
+    "notes": "This Customer is owing 20k"
+  },
+  {
+    "fullname": "Marshal Moses",
+    "email": "mash@example.com",
+    "gender": "m",
+    "phone": "+2347085647535",
+    "address": "1, rantech stop",
+    "notes": "This Customer is owing 20k"
+  },
+  {
+    "fullname": "Paul Pius",
+    "email": "paulpius55@gmail.com",
+    "password": "1234",
+    "cpassword": "1234"
+  },
+  {
+    "fullname": "Paul Pius",
+    "email": "pp@gmail.com",
+    "password": "1234",
+    "cpassword": "1234"
+  },
+  {
+    "fullname": "Phil P",
+    "email": "mash@example.com",
+    "gender": "m",
+    "phone": "+2347085647535",
+    "address": "1, rantech stop",
+    "notes": "This Customer is owing 20k"
+  },
+  { "fullname": "", "email": "", "password": "", "cpassword": "" },
+  { "fullname": "", "email": "", "password": "", "cpassword": "" },
+  { "fullname": "", "email": "", "password": "", "cpassword": "" },
+  {
+    "fullname": "john doe",
+    "email": "john@example.com",
+    "gender": "m",
+    "phone": "+2347085647535",
+    "address": "1, rantech stop",
+    "notes": "This Customer is owing 10k"
+  },
+  {
+    "fullname": "john doe",
+    "email": "john@example.com",
+    "gender": "m",
+    "phone": "+2347085647535",
+    "address": "1, rantech stop",
+    "notes": "This Customer is owing 10k"
+  },
+  {
+    "fullname": "john doe",
+    "email": "john@example.com",
+    "gender": "m",
+    "phone": "+2347085647535",
+    "address": "1, rantech stop",
+    "notes": "This Customer is owing 10k"
+  },
+  {
+    "fullname": "john Joseph",
+    "email": "john@example.com",
+    "gender": "m",
+    "phone": "+2347085647535",
+    "address": "1, rantech stop",
+    "notes": "This Customer is owing 10k"
+  },
+  {
+    "fullname": "john Joseph",
+    "email": "john@example.com",
+    "gender": "m",
+    "phone": "+2347085647535",
+    "address": "1, rantech stop",
+    "notes": "This Customer is owing 10k"
+  },
+  {
+    "fullname": "john Joseph",
+    "email": "john@example.com",
+    "gender": "m",
+    "phone": "+2347085647535",
+    "address": "1, rantech stop",
+    "notes": "This Customer is owing 10k"
+  },
+  {
+    "fullname": "john Joseph",
+    "email": "john@example.com",
+    "gender": "m",
+    "phone": "+2347085647535",
+    "address": "1, rantech stop",
+    "notes": "This Customer is owing 10k"
+  },
+  {
+    "fullname": "john Joseph",
+    "email": "john@example.com",
+    "gender": "m",
+    "phone": "+2347085647535",
+    "address": "1, rantech stop",
+    "notes": "This Customer is owing 10k"
+  },
+  {
+    "fullname": "john Joseph",
+    "email": "john@example.com",
+    "gender": "m",
+    "phone": "+2347085647535",
+    "address": "1, rantech stop",
+    "notes": "This Customer is owing 10k"
+  },
+  {
+    "fullname": "john Joseph",
+    "email": "john@example.com",
+    "gender": "m",
+    "phone": "+2347085647535",
+    "address": "1, rantech stop",
+    "notes": "This Customer is owing 10k"
+  }
+]
